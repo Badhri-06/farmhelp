@@ -1,0 +1,8 @@
+5,Rajesh,Chennai,Harvesting|Ploughing,true
+6,Suresh,Chennai,Harvesting|Irrigation,true
+7,Mahesh,Chennai,Ploughing|Seeding,true
+8,Ganesh,Chennai,Ploughing|Weeding,true
+9,Ramesh,Chennai,Harvesting|Irrigation,true
+10,Dinesh,Chennai,Harvesting|Ploughing,true
+11,Nitesh,Chennai,Seeding|Weeding,true
+12,Ritesh,Chennai,Harvesting|Ploughing,true

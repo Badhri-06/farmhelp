@@ -1,0 +1,4 @@
+1,Anbu,Chennai,Rice,1.0,30000.0
+2,Ravi,Chennai,Wheat,2.0,45000.0
+3,Priya,Chennai,Sugarcane,0.5,25000.0
+4,Kumar,Chennai,Cotton,3.0,60000.0
